@@ -3,14 +3,15 @@ import { JournalLayeout } from "../layeout/JournalLayeout"
 
 export const JournalPage = () => {
   return (
+
     <JournalLayeout>
 
-      <Typography>Velit labore est reprehenderit sint non non tempor excepteur magna nostrud id ullamco exercitation duis. Est officia nisi deserunt mollit dolor elit ut do est aliqua amet. Labore sit enim eiusmod irure fugiat excepteur pariatur minim velit exercitation sint nostrud aliqua adipisicing. Ullamco commodo dolor minim Lorem eiusmod voluptate et.</Typography>
+      <Typography>Irure eu nulla pariatur duis duis aute culpa nisi laboris ut fugiat consectetur deserunt et. Eiusmod Lorem velit ut ea velit enim esse laborum eiusmod. Ea consequat voluptate do est velit sint qui deserunt consequat labore ea. Mollit ut ut veniam dolore ad duis non deserunt nulla duis ipsum amet. Voluptate amet magna irure aliqua qui ea culpa magna aute irure laboris.</Typography>
+
+    <JournalLayeout>
 
       {/* NothingSelected */}
       {/* NoteView */}
-
-    </JournalLayeout>
 
 
   )
